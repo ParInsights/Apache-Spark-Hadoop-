@@ -13,3 +13,5 @@ The reasons for using Hadoop with Python instead of Java are not all that differ
 DATA
 
 The Baltimore FY2014 employee salary data is used for some of the notebooks.  https://data.baltimorecity.gov/City-Government/Baltimore-City-Employee-Salaries-FY2014/2j28-xzd7
+
+Other notebooks will reference the KDD Cup 199 - http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
