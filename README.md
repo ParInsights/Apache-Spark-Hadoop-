@@ -1,7 +1,7 @@
 # Apache-Spark & Hadoop Reference and Notebook. 
 Repository of notebooks and references from using or for Apache Spark and Hadoop Python. 
 
-Using Python with Apache Hadoop- we are able to  store, process, and analyze incredibly large data sets. Hadoop has become the standard in distributed data processing, but has mostly required Java in the past. Today, there are a numerous open source projects that support Hadoop in Python and this tutorial will show students how to use them.
+Using Python with Apache Hadoop- we are able to  store, process, and analyze incredibly large data sets. Hadoop has become the standard in distributed data processing, but has mostly required Java in the past. 
 
 
 
